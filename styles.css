@@ -1,0 +1,88 @@
+.roboto-regular {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+.background {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.card {
+    background-color: white;
+    height: 585px;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.card-header {
+    height: 50px;
+    width: 400px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+}
+
+.icon {
+    height: 20px;
+    width: 20px;
+    padding: 10px;
+    padding-right: 5px;
+}
+
+.icon2 {
+    height: 20px;
+    width: 20px;
+    padding-top: 10px;
+    padding-left: 5px;
+}
+
+h6 {
+    margin: 0px;
+    
+}
+
+.kebab {
+width: 320px;
+display: flex;
+justify-content: end;
+padding-right: 0px;
+}
+
+img {
+    width: 400px;
+    height: 300px;
+    object-fit: cover;
+    display: flex;
+}
+
+h1 {
+    display: block;
+}
+
+
+.subphoto {
+   display: flex;
+   margin-bottom: 0px;
+
+}
+
+.right-icon {
+    width: 350px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+p {
+    font-size: smaller;
+    padding: 10px 10px 10px 10px;
+    margin-top: 0px;
+}
